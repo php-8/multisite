@@ -1,0 +1,474 @@
+[2019-05-11 10:15:33] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-11 10:15:55] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-11 10:19:02] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-11 10:19:11] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-11 10:20:15] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-11 10:20:22] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\fw\app\controllers\MessagesController.php, | Строка: 55
+==========================
+[2019-05-15 10:35:12] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 72
+==========================
+[2019-05-20 06:59:10] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 253
+==========================
+[2019-05-20 18:23:41] Текст ошибки: Access to undeclared static property: Stremer::$status | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 197
+==========================
+[2019-05-20 18:24:30] Текст ошибки: syntax error, unexpected '=' | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 125
+==========================
+[2019-05-20 18:26:08] Текст ошибки: Undefined variable: status | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 197
+==========================
+[2019-05-20 18:26:41] Текст ошибки: Class 'stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 80
+==========================
+[2019-05-20 18:27:41] Текст ошибки: Class 'stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:30:19] Текст ошибки: Class 'stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:30:49] Текст ошибки: Class 'Stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:32:15] Текст ошибки: Class 'Stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:33:28] Текст ошибки: Class 'Stremer' not found | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:42:10] Текст ошибки: Call to undefined function test() | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-20 18:43:09] Текст ошибки: Call to undefined function test() | Файл: C:\xampp\htdocs\fw\app\controllers\UserpageController.php, | Строка: 73
+==========================
+[2019-05-20 18:52:12] Текст ошибки: Call to undefined function status() | Файл: C:\xampp\htdocs\fw\app\views\Userpage\Index.php, | Строка: 81
+==========================
+[2019-05-21 06:41:34] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:41:39] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:41:44] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:42:36] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:42:39] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:42:40] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:42:53] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 06:42:59] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 45
+==========================
+[2019-05-21 13:33:49] Текст ошибки: session_start(): A session had already been started - ignoring | Файл: C:\xampp\htdocs\fw\app\views\layouts\default.php, | Строка: 1
+==========================
+[2019-05-21 15:04:45] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\fw\app\controllers\UserpageController.php, | Строка: 46
+==========================
+[2019-07-24 08:19:20] Текст ошибки: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. | Файл: /home/Content/web/podolog-moskow.ru/public_html/fw/vendor/fw/core/ErrorHandler.php, | Строка: 47
+==========================
+[2019-07-29 11:09:39] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user 'Content_admin'@'localhost' (using password: YES) | Файл: C:\xampp\htdocs\admin\example\vendor\fw\core\Db.php, | Строка: 18
+==========================
+[2019-07-29 12:05:32] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user 'superadmin'@'localhost' (using password: YES) | Файл: C:\xampp\htdocs\admin\example\app\models\AppModel.php, | Строка: 19
+==========================
+[2019-07-29 12:13:35] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user 'superadmin'@'localhost' (using password: YES) | Файл: C:\xampp\htdocs\admin\example\app\models\upload.php, | Строка: 33
+==========================
+[2019-07-29 14:14:29] Текст ошибки: Class 'app\controllers\input' not found | Файл: C:\xampp\htdocs\admin\example\app\controllers\SetController.php, | Строка: 35
+==========================
+[2019-07-29 14:15:49] Текст ошибки: Class 'app\models\uploader' not found | Файл: C:\xampp\htdocs\admin\example\app\controllers\SetController.php, | Строка: 35
+==========================
+[2019-07-29 14:16:11] Текст ошибки: Class 'app\models\uploader' not found | Файл: C:\xampp\htdocs\admin\example\app\controllers\SetController.php, | Строка: 35
+==========================
+[2019-07-29 14:16:26] Текст ошибки: Class 'app\models\CURLFile' not found | Файл: C:\xampp\htdocs\admin\example\app\models\uploader.php, | Строка: 68
+==========================
+[2019-07-29 14:39:09] Текст ошибки: Class 'app\models\CURLFile' not found | Файл: C:\xampp\htdocs\admin\example\app\models\uploader.php, | Строка: 68
+==========================
+[2019-07-29 14:39:33] Текст ошибки: Class 'app\models\uploader' not found | Файл: C:\xampp\htdocs\admin\example\app\controllers\SetController.php, | Строка: 35
+==========================
+[2019-07-29 14:39:45] Текст ошибки: Class 'app\models\CURLFile' not found | Файл: C:\xampp\htdocs\admin\example\app\models\uploader.php, | Строка: 67
+==========================
+[2019-07-29 14:44:38] Текст ошибки: Class 'app\models\CURLFile' not found | Файл: C:\xampp\htdocs\admin\example\app\models\uploader.php, | Строка: 62
+==========================
+[2019-07-30 12:30:39] Текст ошибки: Undefined variable: result | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 24
+==========================
+[2019-07-30 16:15:16] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 3
+==========================
+[2019-07-30 16:15:26] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 3
+==========================
+[2019-07-31 09:32:42] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:32:54] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:33:26] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:35:29] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:35:39] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:48:29] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 14
+==========================
+[2019-07-31 09:58:31] Текст ошибки: SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ | Файл: C:\xampp\htdocs\multisite\app\models\AppModel.php, | Строка: 19
+==========================
+[2019-07-31 09:59:01] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 14
+==========================
+[2019-07-31 09:59:05] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 14
+==========================
+[2019-07-31 09:59:25] Текст ошибки: SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ | Файл: C:\xampp\htdocs\multisite\app\models\AppModel.php, | Строка: 19
+==========================
+[2019-07-31 10:01:23] Текст ошибки: SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\Db.php, | Строка: 18
+==========================
+[2019-07-31 10:03:13] Текст ошибки: SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ | Файл: C:\xampp\htdocs\multisite\app\models\AppModel.php, | Строка: 19
+==========================
+[2019-07-31 10:03:27] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 14
+==========================
+[2019-07-31 12:59:20] Текст ошибки: SQLSTATE[HY000] [1049] Unknown database 'example' | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\Db.php, | Строка: 18
+==========================
+[2019-07-31 12:59:20] Текст ошибки: SQLSTATE[HY000] [1049] Unknown database 'example' | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\Db.php, | Строка: 18
+==========================
+[2019-07-31 12:59:52] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'example.post' doesn't exist | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\Db.php, | Строка: 39
+==========================
+[2019-07-31 12:59:52] Текст ошибки: A non well formed numeric value encountered | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\ErrorHandler.php, | Строка: 51
+==========================
+[2019-07-31 13:07:40] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 40
+==========================
+[2019-07-31 13:08:01] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 40
+==========================
+[2019-07-31 13:08:05] Текст ошибки: Undefined variable: test | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 40
+==========================
+[2019-07-31 13:08:23] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 40
+==========================
+[2019-07-31 13:08:30] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 40
+==========================
+[2019-07-31 13:47:27] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 15
+==========================
+[2019-07-31 13:47:56] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 15
+==========================
+[2019-07-31 13:49:34] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 15
+==========================
+[2019-07-31 13:52:33] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 37
+==========================
+[2019-07-31 13:54:20] Текст ошибки: Maximum execution time of 30 seconds exceeded | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 17
+==========================
+[2019-07-31 13:58:37] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 37
+==========================
+[2019-07-31 14:00:14] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 37
+==========================
+[2019-08-01 10:11:28] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 62
+==========================
+[2019-08-01 10:54:11] Текст ошибки: Too few arguments to function app\models\Update::set_images(), 5 passed in C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php on line 28 and exactly 6 expected | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 87
+==========================
+[2019-08-01 10:54:26] Текст ошибки: Undefined variable: array | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 62
+==========================
+[2019-08-01 11:46:58] Текст ошибки: Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 09:41:47] Текст ошибки: Illegal string offset 'data' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 27
+==========================
+[2019-08-02 10:00:30] Текст ошибки: Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 25
+==========================
+[2019-08-02 12:22:26] Текст ошибки: Undefined variable: response | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 70
+==========================
+[2019-08-02 12:22:49] Текст ошибки: compact(): Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 45
+==========================
+[2019-08-02 12:23:04] Текст ошибки: Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 66
+==========================
+[2019-08-02 12:31:07] Текст ошибки: Trying to get property 'lastinsertid' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 67
+==========================
+[2019-08-02 12:33:42] Текст ошибки: Trying to get property 'data' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 70
+==========================
+[2019-08-02 12:45:01] Текст ошибки: Trying to get property 'data' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 70
+==========================
+[2019-08-02 12:53:47] Текст ошибки: Trying to get property 'status_message' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 69
+==========================
+[2019-08-02 13:12:34] Текст ошибки: Undefined variable: cart | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 73
+==========================
+[2019-08-02 13:24:59] Текст ошибки: extract() expects parameter 1 to be array, string given | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 29
+==========================
+[2019-08-02 13:28:47] Текст ошибки: extract() expects parameter 1 to be array, null given | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 27
+==========================
+[2019-08-02 13:33:03] Текст ошибки: Trying to get property 'status_message' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 74
+==========================
+[2019-08-02 13:38:25] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 73
+==========================
+[2019-08-02 13:52:24] Текст ошибки: Trying to get property 'data' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 79
+==========================
+[2019-08-02 13:52:45] Текст ошибки: Trying to get property 'data' of non-object | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 79
+==========================
+[2019-08-02 13:54:33] Текст ошибки: Illegal string offset 'data' | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 78
+==========================
+[2019-08-02 14:00:26] Текст ошибки: json_decode() expects parameter 1 to be string, array given | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 14:00:35] Текст ошибки: syntax error, unexpected ',' | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 14:04:28] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 77
+==========================
+[2019-08-02 14:04:46] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 77
+==========================
+[2019-08-02 14:05:06] Текст ошибки: json_decode() expects parameter 1 to be string, array given | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 14:16:59] Текст ошибки: ob_end_flush(): failed to delete and flush buffer. No buffer to delete or flush | Файл: C:\xampp\htdocs\multisite\vendor\fw\core\ErrorHandler.php, | Строка: 37
+==========================
+[2019-08-02 14:21:53] Текст ошибки: Call to undefined function app\controllers\set_product_to_category() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 39
+==========================
+[2019-08-02 14:23:44] Текст ошибки: Cannot redeclare App\models\getDB() (previously declared in C:\xampp\htdocs\multisite\app\models\AppModel.php:13) | Файл: C:\xampp\htdocs\multisite\app\models\AppModel.php, | Строка: 11
+==========================
+[2019-08-02 14:24:37] Текст ошибки: Illegal string offset 'lastinsertid' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 35
+==========================
+[2019-08-02 14:25:30] Текст ошибки: Undefined index: category_id | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 40
+==========================
+[2019-08-02 14:27:20] Текст ошибки: Undefined index: category_id | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 40
+==========================
+[2019-08-02 14:37:27] Текст ошибки: syntax error, unexpected '[', expecting ',' or ';' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 9
+==========================
+[2019-08-02 14:37:57] Текст ошибки: Undefined index: category_id | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 40
+==========================
+[2019-08-02 14:39:23] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:39:52] Текст ошибки: Illegal string offset 'lastinsertid' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 36
+==========================
+[2019-08-02 14:40:16] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:41:03] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:41:53] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:42:24] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:42:38] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 64
+==========================
+[2019-08-02 14:44:50] Текст ошибки: Undefined variable: output_category | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 14:45:13] Текст ошибки: Illegal string offset 'lastinsertid' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 36
+==========================
+[2019-08-02 14:45:43] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 72
+==========================
+[2019-08-02 15:04:23] Текст ошибки: Undefined index: image_id | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 41
+==========================
+[2019-08-02 15:17:00] Текст ошибки: Undefined index: image_id | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 43
+==========================
+[2019-08-02 16:11:07] Текст ошибки: Too few arguments to function app\models\Update::set_images(), 5 passed in C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php on line 45 and exactly 6 expected | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 87
+==========================
+[2019-08-02 16:34:29] Текст ошибки: Undefined variable: images | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 73
+==========================
+[2019-08-03 09:03:44] Текст ошибки: Illegal string offset 'lastinsertid' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 34
+==========================
+[2019-08-03 09:53:43] Текст ошибки: Illegal string offset 'lastinsertid' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 36
+==========================
+[2019-08-05 09:22:59] Текст ошибки: Undefined index: city | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 25
+==========================
+[2019-08-06 12:52:00] Текст ошибки: Undefined variable: filetmpname | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 201
+==========================
+[2019-08-06 13:09:27] Текст ошибки: CURLFile::__construct() expects parameter 1 to be a valid path, array given | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 60
+==========================
+[2019-08-06 13:18:23] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 36
+==========================
+[2019-08-06 13:18:48] Текст ошибки: compact(): Undefined variable: filetmpname | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 50
+==========================
+[2019-08-06 13:19:48] Текст ошибки: Undefined index: tmp_name | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 36
+==========================
+[2019-08-06 13:20:22] Текст ошибки: Undefined index: tmp_name | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 36
+==========================
+[2019-08-06 13:20:45] Текст ошибки: Use of undefined constant tmp_name - assumed 'tmp_name' (this will throw an Error in a future version of PHP) | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 36
+==========================
+[2019-08-06 13:22:10] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 38
+==========================
+[2019-08-06 13:22:53] Текст ошибки: Undefined variable: files | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 33
+==========================
+[2019-08-06 13:26:02] Текст ошибки: compact(): Undefined variable: files | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 48
+==========================
+[2019-08-06 13:28:26] Текст ошибки: CURLFile::__construct() expects parameter 1 to be a valid path, array given | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 61
+==========================
+[2019-08-06 13:29:31] Текст ошибки: Undefined variable: filetmpname | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 45
+==========================
+[2019-08-06 13:34:10] Текст ошибки: Undefined index: tmp_name | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:35:14] Текст ошибки: Illegal string offset 'tmp_name' | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:35:38] Текст ошибки: Undefined index: tmp_name | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:36:59] Текст ошибки: Undefined index: tmp_name | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:37:12] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:37:38] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:41:16] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:41:31] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:41:33] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:47:04] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:47:13] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:47:14] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:47:32] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 203
+==========================
+[2019-08-06 13:50:10] Текст ошибки: [] operator not supported for strings | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:52:56] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:53:15] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 204
+==========================
+[2019-08-06 13:56:14] Текст ошибки: compact(): Undefined variable: file | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 36
+==========================
+[2019-08-06 13:56:48] Текст ошибки: CURLFile::__construct() expects parameter 1 to be a valid path, array given | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 60
+==========================
+[2019-08-06 13:57:31] Текст ошибки: CURLFile::__construct() expects parameter 1 to be a valid path, array given | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 60
+==========================
+[2019-08-06 13:58:13] Текст ошибки: Undefined variable: file | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 199
+==========================
+[2019-08-07 10:36:09] Текст ошибки: count(): Parameter must be an array or an object that implements Countable | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 37
+==========================
+[2019-08-07 10:37:57] Текст ошибки: count(): Parameter must be an array or an object that implements Countable | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 37
+==========================
+[2019-08-07 10:39:21] Текст ошибки: Class 'app\controllers\CurlFile' not found | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 38
+==========================
+[2019-08-07 10:40:27] Текст ошибки: Undefined property: app\controllers\SetController::$sites | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 61
+==========================
+[2019-08-07 10:41:34] Текст ошибки: Undefined property: app\controllers\SetController::$sites | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 61
+==========================
+[2019-08-07 10:43:34] Текст ошибки: Undefined property: app\controllers\SetController::$sites | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 61
+==========================
+[2019-08-07 10:44:12] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 65
+==========================
+[2019-08-07 10:45:25] Текст ошибки: Array to string conversion | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 65
+==========================
+[2019-08-07 11:41:58] Текст ошибки: Undefined variable: response | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 30
+==========================
+[2019-08-10 12:03:05] Текст ошибки: Undefined variable: timestamp | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 12
+==========================
+[2019-08-10 12:03:39] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 12 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-10 12:03:47] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 12 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-10 12:04:29] Текст ошибки: Class 'app\controllers\Update' not found | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 12
+==========================
+[2019-08-10 12:11:37] Текст ошибки: Class 'app\models\PDO' not found | Файл: C:\xampp\htdocs\multisite\app\models\display.php, | Строка: 78
+==========================
+[2019-08-10 12:44:36] Текст ошибки: require(../models/display.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 2
+==========================
+[2019-08-10 12:45:07] Текст ошибки: require(../models/display.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 2
+==========================
+[2019-08-10 12:45:17] Текст ошибки: require(models/display.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 2
+==========================
+[2019-08-10 12:45:23] Текст ошибки: require(/models/display.php): failed to open stream: No such file or directory | Файл: C:\xampp\htdocs\multisite\app\controllers\SetController.php, | Строка: 2
+==========================
+[2019-08-12 09:11:04] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:11:58] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:12:11] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:12:21] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:12:43] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:12:48] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:13:27] Текст ошибки: Too few arguments to function app\models\uploader::__construct(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\SetController.php on line 46 and exactly 17 expected | Файл: C:\xampp\htdocs\multisite\app\models\uploader.php, | Строка: 26
+==========================
+[2019-08-12 09:13:36] Текст ошибки: Undefined variable: categories | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 205
+==========================
+[2019-08-12 09:44:18] Текст ошибки: Undefined property: app\models\Sql::$dbconnect | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 17
+==========================
+[2019-08-12 09:44:36] Текст ошибки: Undefined property: app\models\Sql::$dbconnect | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 17
+==========================
+[2019-08-12 09:44:37] Текст ошибки: Undefined property: app\models\Sql::$dbconnect | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 17
+==========================
+[2019-08-12 09:50:01] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 9
+==========================
+[2019-08-12 09:50:23] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 7
+==========================
+[2019-08-12 09:52:38] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 7
+==========================
+[2019-08-12 09:55:44] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 7
+==========================
+[2019-08-12 09:56:39] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 7
+==========================
+[2019-08-12 10:00:55] Текст ошибки: Class 'App\models\AppModel' not found | Файл: C:\xampp\htdocs\multisite\app\models\sql.php, | Строка: 7
+==========================
+[2019-08-12 10:18:17] Текст ошибки: syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 168
+==========================
+[2019-08-12 10:18:46] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 168
+==========================
+[2019-08-12 10:19:08] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 168
+==========================
+[2019-08-12 10:23:30] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 168
+==========================
+[2019-08-12 10:23:40] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 168
+==========================
+[2019-08-12 10:24:12] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-12 10:24:33] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-12 10:24:59] Текст ошибки: Object of class stdClass could not be converted to string | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-12 10:26:25] Текст ошибки: Cannot use object of type stdClass as array | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-12 10:28:02] Текст ошибки: Undefined property: stdClass::$name_ru | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-12 10:33:25] Текст ошибки: Undefined index: product_id | Файл: C:\xampp\htdocs\multisite\app\views\Set\index.php, | Строка: 169
+==========================
+[2019-08-13 15:56:08] Текст ошибки: Undefined index: userid | Файл: C:\xampp\htdocs\multisite\app\views\User\userpage.php, | Строка: 70
+==========================
+[2019-08-13 15:57:00] Текст ошибки: Undefined index: userid | Файл: C:\xampp\htdocs\multisite\app\views\User\userpage.php, | Строка: 70
+==========================
+[2019-08-13 15:57:33] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\multisite\app\controllers\UserpageController.php, | Строка: 46
+==========================
+[2019-08-13 15:58:11] Текст ошибки: Undefined index: user | Файл: C:\xampp\htdocs\multisite\app\controllers\MessagesController.php, | Строка: 16
+==========================
+[2019-09-11 09:51:06] Текст ошибки: Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\Spb.php, | Строка: 67
+==========================
+[2019-09-11 10:39:20] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 21
+==========================
+[2019-09-11 11:31:31] Текст ошибки: Maximum execution time of 3000 seconds exceeded | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 99
+==========================
+[2019-09-12 13:56:20] Текст ошибки: Undefined offset: 0 | Файл: C:\xampp\htdocs\multisite\app\views\layouts\default.php, | Строка: 52
+==========================
+[2019-09-12 13:56:29] Текст ошибки: Cannot use [] for reading | Файл: C:\xampp\htdocs\multisite\app\views\layouts\default.php, | Строка: 52
+==========================
+[2019-09-12 14:07:15] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file | Файл: C:\xampp\htdocs\multisite\app\views\tutorial\index.php, | Строка: 67
+==========================
+[2019-09-13 14:47:39] Текст ошибки: Maximum execution time of 6000 seconds exceeded | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 26
+==========================
+[2019-09-21 11:21:33] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 51
+==========================
+[2019-09-21 11:21:43] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 51
+==========================
+[2019-09-21 11:23:24] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 51
+==========================
+[2019-09-21 11:23:28] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 51
+==========================
+[2019-09-21 11:23:59] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 52
+==========================
+[2019-09-21 11:24:14] Текст ошибки: Undefined index: PriceAndQuantity | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 52
+==========================
+[2019-09-21 11:32:14] Текст ошибки: Too few arguments to function app\models\Update::Get_all_products(), 0 passed in C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php on line 54 and exactly 1 expected | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 12
+==========================
+[2019-09-23 09:58:55] Текст ошибки: Illegal string offset 'product_ean' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 57
+==========================
+[2019-09-23 10:00:19] Текст ошибки: Illegal string offset 'product_quantity' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 57
+==========================
+[2019-09-23 10:01:00] Текст ошибки: Illegal string offset 'product_quantity' | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 57
+==========================
+[2019-09-23 10:19:01] Текст ошибки: Too few arguments to function app\models\Update::update_price_and_quantity(), 3 passed in C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php on line 56 and exactly 4 expected | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 130
+==========================
+[2019-09-23 10:19:29] Текст ошибки: Undefined variable: receiver | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 139
+==========================
+[2019-09-23 10:20:49] Текст ошибки: Undefined variable: ean | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\PriceAndQuantity.php, | Строка: 62
+==========================
+[2019-09-23 11:56:05] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\PriceAndQuantity.php, | Строка: 83
+==========================
+[2019-09-23 13:13:06] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 41
+==========================
+[2019-09-23 13:24:02] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 41
+==========================
+[2019-09-23 15:23:38] Текст ошибки: Undefined variable: output_products | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 83
+==========================
+[2019-09-23 15:27:43] Текст ошибки: Use of undefined constant originalid - assumed 'originalid' (this will throw an Error in a future version of PHP) | Файл: C:\xampp\htdocs\multisite\app\views\Updatedb\index.php, | Строка: 89
+==========================
+[2019-09-23 15:34:46] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 45
+==========================
+[2019-09-24 13:58:45] Текст ошибки: Invalid argument supplied for foreach() | Файл: C:\xampp\htdocs\multisite\app\controllers\UpdatedbController.php, | Строка: 43
+==========================
+[2019-09-25 12:24:34] Текст ошибки: Maximum execution time of 12000 seconds exceeded | Файл: C:\xampp\htdocs\multisite\app\models\update.php, | Строка: 109
+==========================
